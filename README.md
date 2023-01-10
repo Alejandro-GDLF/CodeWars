@@ -1,5 +1,7 @@
 # CodeWars
-All my solutions to the katas done in CodeWars
+All my solutions to the katas done in [CodeWars](https://codewars.com)
+
+**[My profile.](https://www.codewars.com/users/Alejandro-GDLF)**
 
 # Index
 1. [Matrix Determinant](#matrix-determinant)
